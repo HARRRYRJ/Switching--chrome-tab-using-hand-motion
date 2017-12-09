@@ -1,2 +1,2 @@
 # Switching--chrome-tab-using-hand-motion
-In this project i combine arduino and python. I am using two ultra sonic sensor for this project. 
+In this project, i combine Arduino and python. I am using two ultrasonic sensors for this project. 
